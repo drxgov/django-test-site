@@ -1,7 +1,7 @@
 # Файлы виртуального окружения
 .venv/
 .env
-
+*.sqlite3
 # Файлы Python
 __pycache__/
 *.pyc
@@ -12,4 +12,3 @@ __pycache__/
 # IDE
 .vscode/
 .idea/
-*.sqlite3
